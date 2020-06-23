@@ -1,6 +1,6 @@
 # Microwave brightness temperature of the Moon: Application in calibration
 <p align="center">
-Liu Niutao
+Liu Niutao and Jin Ya-Qiu
 </p>
 <p align="center">
 the Key Laboratory of Information Science of Electromagnetic Waves (MoE), Fudan University
