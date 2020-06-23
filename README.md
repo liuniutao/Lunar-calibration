@@ -5,13 +5,13 @@ Calibration of satellite-borne radiometer is a key issue for quantitative remote
 Lunar regolith media has been modeled as uniformly inhomogeneous media with density, heat capacity and heat conductivity profiles. The heat conduction equation is solved to obtain the temperature profile of the regolith. The simulated surface temperature can be validated by the Diviner T7 data (channel 7) as shown in Figure. 1 and the temperature at the depth measured in the Apollo borehole experiment (See Liu, Fa and Jin, 2018, TGRS,DOI: 10.1109/TGRS.2018.2880116). The microwave brightness temperature is simulated with the radiative transfer equation. The loss tangent is fitted by the Change'2 microwave birghtness temperature along the lunar equator at the noon and validated by the Change'2 measurement at other latitude as shown in Figure. 2. (See Liu, Fa and Jin, 2018, TGRS,DOI: 10.1109/TGRS.2018.2880116)
 </p>
 <p>
-![image](https://github.com/liuniutao/Lunar-calibration/blob/master/Surface%20temperature%20validation.jpg)
+![contents](https://github.com/liuniutao/Lunar-calibration/blob/master/Surface%20temperature%20validation.jpg)
 </p>
 <p>
 Figure. 1
 </p>
 <p>
-![image](https://github.com/liuniutao/Lunar-calibration/blob/master/37GHz%20MW%20validation%20equator.jpg)
+![contents](https://github.com/liuniutao/Lunar-calibration/blob/master/37GHz%20MW%20validation%20equator.jpg)
 </p>
 <p>
 ![image](https://github.com/liuniutao/Lunar-calibration/blob/master/37GHz%20MW%20validation%2060N.jpg)
