@@ -61,8 +61,15 @@ The simulated 89GHz weighted average brightness temperature with phase angle and
 <p>
 Figure. 4<br>
 Reference<br>
-[1] Liu, N., Fa, W. and Jin, Y. Q., “Brightness Temperature of Lunar Surface for Calibration of Multi-Channel Millimeter-Wave Radiometer of Geosynchronous FY-4M”. IEEE Transactions on Geoscience and Remote Sensing, vol. 57, no. 5, pp. 3055-3063, 2019.
-[2] Liu, N., Jin, Y. Q., " Average Brightness Temperature of Lunar Surface for Calibration of Multi-Channel Millimeter-Wave Radiometer from 89GHz to 183GHz and Data Validation ", IEEE Transactions on Geoscience and Remote Sensing, 2020.DOI: 10.1109/TGRS.2020.3000230.
-[3] Burgdorf, M. J., Buehler, S. A., Hans, I. et. al., “Disk-Integrated Lunar Brightness Temperatures between 89 and 190 GHz”, Advances in Astronomy, vol. 2019, Article ID. 2350476, 8 pages, 2019, https://doi.org/10.1155/2019/2350476.
-  
+[1] Liu, N., Fa, W. and Jin, Y. Q., “Brightness Temperature of Lunar Surface for Calibration of Multi-Channel Millimeter-Wave Radiometer of Geosynchronous FY-4M”. IEEE Transactions on Geoscience and Remote Sensing, vol. 57, no. 5, pp. 3055-3063, 2019.<br>
+[2] Liu, N., Jin, Y. Q., " Average Brightness Temperature of Lunar Surface for Calibration of Multi-Channel Millimeter-Wave Radiometer from 89GHz to 183GHz and Data Validation ", IEEE Transactions on Geoscience and Remote Sensing, 2020.DOI: 10.1109/TGRS.2020.3000230.<br>
+[3] Burgdorf, M. J., Buehler, S. A., Hans, I. et. al., “Disk-Integrated Lunar Brightness Temperatures between 89 and 190 GHz”, Advances in Astronomy, vol. 2019, Article ID. 2350476, 8 pages, 2019, https://doi.org/10.1155/2019/2350476.<br>
+[4]	Fa, W. and M.A. Wieczorek. "Regolith thickness over the lunar nearside: Results from Earth-based 70-cm Arecibo radar  observation". Icarus, vol. 218, no. 2, pp. 771-787, 2012.<br>
+[5]	Heiken, G. H., et al., Lunar Sourcebook: A User's Guide to the Moon. Cambridge University Press, New York, pp. 285-356, 1991. <br>
+[6]	Jin, Y.Q. Electromagnetic scattering modelling for quantitative remote sensing . World Scientific, pp. 310, 1993.<br>
+[7]	Vasavada, A.R., et al. "Lunar equatorial surface temperatures and regolith properties from the Diviner Lunar Radiometer Experiment." J. Geophys. Res., Planets, vol. 117, no. E12, 2012.<br>
+[8]	Hayne, P.O., et al. "Global regolith thermophysical properties of the Moon from the Diviner Lunar Radiometer Experiment."  J. Geophys. Res., Planets, vol. 122, no. 12, pp. 2371-2400, 2017.<br>
+[9]	Yu, S. and W. Fa. "Thermal conductivity of surficial lunar regolith estimated from Lunar Reconnaissance Orbiter Diviner Radiometer data." Planet. Space Sci., vol. 124, pp. 48-61, May 2016.<br>
+
+
   
