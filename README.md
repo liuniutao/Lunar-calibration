@@ -6,7 +6,7 @@ Niutao Liu and Ya-Qiu Jin
 the Key Laboratory of Information Science of Electromagnetic Waves (MoE), Fudan University
 </p>
 <p align="center">
-Send requests/inquiries to liuniutao@hotmail.com
+Send questions to liuniutao@hotmail.com
 </p>
 Calibration of satellite-borne radiometer is a key issue for quantitative remote sensing. Its accuracy depends on the stability of the calibration source. Because of no atmosphere and biological activity, the Moon surface keeps stable in the long term and may be a good candidate for thermal calibration. The intension of this page is to provide a possible way for the calibration of space-borne microwave radiometers and the radio telescopes using the Moon. The simulation were validated by the Diviner infrared brightness temperature, the Change'2 microwave brightness and the NOAA-18 microwave humidity sounder data.<br>
 The weighted average microwave brightness temperature could be simulated easily upon request. Send requests/inquiries to liuniutao@hotmail.com<br>
